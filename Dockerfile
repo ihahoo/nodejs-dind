@@ -1,3 +1,3 @@
 FROM node:8.1.0-alpine
 
-RUN apk add --update docker
+RUN apk add --update docker py-pip && pip install docker-compose

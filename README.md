@@ -1,2 +1,2 @@
 # nodejs-dind
-官方node镜像 + docker in docker
+(node + docker + docker-compose) in docker
